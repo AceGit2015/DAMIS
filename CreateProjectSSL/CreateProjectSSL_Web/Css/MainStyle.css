@@ -1,0 +1,82 @@
+﻿body
+{
+	height: 100%;
+}
+body, td, th
+{
+	font-size: 12px;
+	color: #000000;
+}
+body
+{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	line-height: 25px;
+}
+.rightborder
+{
+	border-right: 1px solid #9AC4DC;
+}
+/* 左边菜单样式设置开始*/
+.lefttitle
+{
+	font-weight: bold;
+	text-indent: 5px;
+	background-image: url(../Images/lefttitle.png);
+	height: 33px;
+	line-height: 33px;
+}
+.leftmenu
+{
+	border-right: 1px solid #D0E6EC;
+}
+.leftmenu a:link
+{
+	width: 142px;
+	height: 26px;
+	display: block;
+	line-height: 25px;
+	text-indent: 23px;
+	background-image: url(../Images/leftmenubg.jpg);
+	color: #3D6BAC;
+}
+.leftmenu a:visited
+{
+	width: 142px;
+	height: 26px;
+	display: block;
+	line-height: 25px;
+	text-indent: 23px;
+	background-image: url(../Images/leftmenubg.jpg);
+	color: #3D6BAC;
+}
+.leftmenu a:hover
+{
+	width: 142px;
+	height: 26px;
+	display: block;
+	line-height: 25px;
+	text-indent: 23px;
+	background-image: url(../Images/leftmenubg.jpg);
+	color: #3D6BAC;
+}
+/* 左边菜单样式设置结束*/
+
+.maintitle
+{
+	background-color: #F2F9FB;
+	height: 26px;
+	border-bottom: 1px solid #D0E6EC;
+}
+.maintitleword
+{
+	text-indent: 5px;
+	line-height: 25px;
+	color: #077AC7;
+	font-weight: bold;
+}
+
+
+ 
