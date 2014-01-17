@@ -160,7 +160,11 @@ C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProject
 C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsModel\bin\Debug\ToolsModel.pdb
 C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsModel\obj\Debug\ToolsModel.dll
 C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsModel\obj\Debug\ToolsModel.pdb
-D:\SSL2013\CreateProjectSSL\ToolsModel\bin\Debug\ToolsModel.dll
-D:\SSL2013\CreateProjectSSL\ToolsModel\bin\Debug\ToolsModel.pdb
-D:\SSL2013\CreateProjectSSL\ToolsModel\obj\Debug\ToolsModel.dll
-D:\SSL2013\CreateProjectSSL\ToolsModel\obj\Debug\ToolsModel.pdb
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsModel\bin\Debug\ToolsModel.dll
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsModel\bin\Debug\ToolsModel.pdb
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsModel\obj\Debug\ToolsModel.dll
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsModel\obj\Debug\ToolsModel.pdb
+D:\DAMISLAST\CreateProjectSSL\ToolsModel\bin\Debug\ToolsModel.dll
+D:\DAMISLAST\CreateProjectSSL\ToolsModel\bin\Debug\ToolsModel.pdb
+D:\DAMISLAST\CreateProjectSSL\ToolsModel\obj\Debug\ToolsModel.dll
+D:\DAMISLAST\CreateProjectSSL\ToolsModel\obj\Debug\ToolsModel.pdb
