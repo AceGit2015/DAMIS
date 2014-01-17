@@ -1,0 +1,14 @@
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsCommon\obj\Debug\ToolsCommon.csprojResolveAssemblyReference.cache
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsCommon\bin\Debug\ToolsCommon.dll
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsCommon\bin\Debug\ToolsCommon.pdb
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsCommon\bin\Debug\ToolsHelper.dll
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsCommon\bin\Debug\ToolsHelper.pdb
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsCommon\obj\Debug\ToolsCommon.dll
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsCommon\obj\Debug\ToolsCommon.pdb
+D:\DAMISLAST\CreateProjectSSL\ToolsCommon\bin\Debug\ToolsCommon.dll
+D:\DAMISLAST\CreateProjectSSL\ToolsCommon\bin\Debug\ToolsCommon.pdb
+D:\DAMISLAST\CreateProjectSSL\ToolsCommon\bin\Debug\ToolsHelper.dll
+D:\DAMISLAST\CreateProjectSSL\ToolsCommon\bin\Debug\ToolsHelper.pdb
+D:\DAMISLAST\CreateProjectSSL\ToolsCommon\obj\Debug\ToolsCommon.csprojResolveAssemblyReference.cache
+D:\DAMISLAST\CreateProjectSSL\ToolsCommon\obj\Debug\ToolsCommon.dll
+D:\DAMISLAST\CreateProjectSSL\ToolsCommon\obj\Debug\ToolsCommon.pdb

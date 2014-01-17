@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CreateProjectSSL_Web", "CreateProjectSSL_Web\", "{7A0B209E-84A5-4FBC-96B6-9CE82AD4A0DA}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""
+		SccAuxPath = ""
+		SccLocalPath = ""
+		SccProvider = ""
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{B36CA150-E6E1-41F3-BB43-9310C1C7E72E}|ToolsHelper.dll;{A591D5B7-3DB0-4D02-91B4-CD69232806AD}|ToolsDal.dll;{B7B20071-93E8-4C31-9716-0B2B19F27FCF}|ToolsModel.dll;{E776372B-6938-4F70-9FC3-AD8FCCB5DAF1}|ToolsCommon.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/CreateProjectSSL_Web"
+		Debug.AspNetCompiler.PhysicalPath = "CreateProjectSSL_Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CreateProjectSSL_Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CreateProjectSSL_Web"
+		Release.AspNetCompiler.PhysicalPath = "CreateProjectSSL_Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CreateProjectSSL_Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2884"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolsDal", "ToolsDal\ToolsDal.csproj", "{A591D5B7-3DB0-4D02-91B4-CD69232806AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolsHelper", "ToolsHelper\ToolsHelper.csproj", "{B36CA150-E6E1-41F3-BB43-9310C1C7E72E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolsModel", "ToolsModel\ToolsModel.csproj", "{B7B20071-93E8-4C31-9716-0B2B19F27FCF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B36CA150-E6E1-41F3-BB43-9310C1C7E72E} = {B36CA150-E6E1-41F3-BB43-9310C1C7E72E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolsCommon", "ToolsCommon\ToolsCommon.csproj", "{E776372B-6938-4F70-9FC3-AD8FCCB5DAF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A0B209E-84A5-4FBC-96B6-9CE82AD4A0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0B209E-84A5-4FBC-96B6-9CE82AD4A0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0B209E-84A5-4FBC-96B6-9CE82AD4A0DA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0B209E-84A5-4FBC-96B6-9CE82AD4A0DA}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{A591D5B7-3DB0-4D02-91B4-CD69232806AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A591D5B7-3DB0-4D02-91B4-CD69232806AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A591D5B7-3DB0-4D02-91B4-CD69232806AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A591D5B7-3DB0-4D02-91B4-CD69232806AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36CA150-E6E1-41F3-BB43-9310C1C7E72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36CA150-E6E1-41F3-BB43-9310C1C7E72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36CA150-E6E1-41F3-BB43-9310C1C7E72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36CA150-E6E1-41F3-BB43-9310C1C7E72E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B20071-93E8-4C31-9716-0B2B19F27FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B20071-93E8-4C31-9716-0B2B19F27FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B20071-93E8-4C31-9716-0B2B19F27FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B20071-93E8-4C31-9716-0B2B19F27FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E776372B-6938-4F70-9FC3-AD8FCCB5DAF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E776372B-6938-4F70-9FC3-AD8FCCB5DAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E776372B-6938-4F70-9FC3-AD8FCCB5DAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E776372B-6938-4F70-9FC3-AD8FCCB5DAF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

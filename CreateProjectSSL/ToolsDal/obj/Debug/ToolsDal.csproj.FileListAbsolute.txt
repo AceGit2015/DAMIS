@@ -1,0 +1,454 @@
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProject\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProject\ToolsDal\bin\Debug\ToolsDal.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProject\ToolsDal\bin\Debug\ToolsDal.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProject\ToolsDal\bin\Debug\ToolsCommon.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProject\ToolsDal\bin\Debug\ToolsHelper.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProject\ToolsDal\bin\Debug\NPOI.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProject\ToolsDal\bin\Debug\ToolsCommon.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProject\ToolsDal\bin\Debug\ToolsHelper.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProject\ToolsDal\obj\Debug\ToolsDal.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProject\ToolsDal\obj\Debug\ToolsDal.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProject\ToolsDal\bin\Debug\ToolsModel.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProject\ToolsDal\bin\Debug\ToolsModel.pdb
+F:\项目\外部项目\2013\SSL\CreateProject\ToolsDal\bin\Debug\ToolsDal.dll
+F:\项目\外部项目\2013\SSL\CreateProject\ToolsDal\bin\Debug\ToolsDal.pdb
+F:\项目\外部项目\2013\SSL\CreateProject\ToolsDal\bin\Debug\ToolsCommon.dll
+F:\项目\外部项目\2013\SSL\CreateProject\ToolsDal\bin\Debug\ToolsHelper.dll
+F:\项目\外部项目\2013\SSL\CreateProject\ToolsDal\bin\Debug\ToolsModel.dll
+F:\项目\外部项目\2013\SSL\CreateProject\ToolsDal\bin\Debug\NPOI.dll
+F:\项目\外部项目\2013\SSL\CreateProject\ToolsDal\bin\Debug\ToolsCommon.pdb
+F:\项目\外部项目\2013\SSL\CreateProject\ToolsDal\bin\Debug\ToolsHelper.pdb
+F:\项目\外部项目\2013\SSL\CreateProject\ToolsDal\bin\Debug\ToolsModel.pdb
+F:\项目\外部项目\2013\SSL\CreateProject\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+F:\项目\外部项目\2013\SSL\CreateProject\ToolsDal\obj\Debug\ToolsDal.dll
+F:\项目\外部项目\2013\SSL\CreateProject\ToolsDal\obj\Debug\ToolsDal.pdb
+F:\项目\外部项目\2013\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+F:\项目\外部项目\2013\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+F:\项目\外部项目\2013\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+F:\项目\外部项目\2013\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+F:\项目\外部项目\2013\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+F:\项目\外部项目\2013\SSL\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+F:\项目\外部项目\2013\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+F:\项目\外部项目\2013\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+F:\项目\外部项目\2013\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+F:\项目\外部项目\2013\SSL\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+F:\项目\外部项目\2013\SSL\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+F:\项目\外部项目\2013\SSL\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+D:\个人业务\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+D:\个人业务\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+D:\个人业务\SSL\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+D:\个人业务\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+D:\个人业务\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+D:\个人业务\SSL\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+D:\个人业务\SSL\CreateProjectSSL\ToolsDal\obj\Debug\ResolveAssemblyReference.cache
+D:\个人业务\SSL\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\SSL\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\SSL\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\SSL\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\SSL\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\SSL\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\SSL\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\SSL\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\SSL\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\SSL\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\SSL\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\SSL\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\SSL\CreateProjectSSL201311091200\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+F:\项目\外部项目\2013\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+F:\项目\外部项目\2013\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+F:\项目\外部项目\2013\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+F:\项目\外部项目\2013\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+F:\项目\外部项目\2013\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+F:\项目\外部项目\2013\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+F:\项目\外部项目\2013\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+F:\项目\外部项目\2013\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+F:\项目\外部项目\2013\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+F:\项目\外部项目\2013\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+F:\项目\外部项目\2013\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+F:\项目\外部项目\2013\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\obj\Debug\ResolveAssemblyReference.cache
+D:\个人业务\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-11-17 2400]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+J:\Programs\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+J:\Programs\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+J:\Programs\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+J:\Programs\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+J:\Programs\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+J:\Programs\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+J:\Programs\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+J:\Programs\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+J:\Programs\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+J:\Programs\Company Dep\CreateProjectSSL\ToolsDal\obj\Debug\ResolveAssemblyReference.cache
+J:\Programs\Company Dep\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+J:\Programs\Company Dep\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL201311202300\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL201311202300\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL201311202300\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+D:\个人业务\SSL\CreateProjectSSL201311202300\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+D:\个人业务\SSL\CreateProjectSSL201311202300\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+D:\个人业务\SSL\CreateProjectSSL201311202300\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+D:\个人业务\SSL\CreateProjectSSL201311202300\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+D:\个人业务\SSL\CreateProjectSSL201311202300\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+D:\个人业务\SSL\CreateProjectSSL201311202300\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+D:\个人业务\SSL\CreateProjectSSL201311202300\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\obj\Debug\ResolveAssemblyReference.cache
+D:\个人业务\SSL\CreateProjectSSL201311202300\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL201311202300\CreateProjectSSL[2013-11-20]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-11-22 1200]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-11-22 1200]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-11-22 1200]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-11-22 1200]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-11-22 1200]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-11-22 1200]\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-11-22 1200]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-11-22 1200]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-11-22 1200]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-11-22 1200]\CreateProjectSSL\ToolsDal\obj\Debug\ResolveAssemblyReference.cache
+D:\个人业务\SSL\CreateProjectSSL[2013-11-22 1200]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-11-22 1200]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+C:\Users\pc\Desktop\CreateProjectSSL201311221711\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+C:\Users\pc\Desktop\CreateProjectSSL201311221711\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+C:\Users\pc\Desktop\CreateProjectSSL201311221711\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+C:\Users\pc\Desktop\CreateProjectSSL201311221711\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+C:\Users\pc\Desktop\CreateProjectSSL201311221711\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+C:\Users\pc\Desktop\CreateProjectSSL201311221711\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+C:\Users\pc\Desktop\CreateProjectSSL201311221711\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+C:\Users\pc\Desktop\CreateProjectSSL201311221711\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+C:\Users\pc\Desktop\CreateProjectSSL201311221711\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+C:\Users\pc\Desktop\CreateProjectSSL201311221711\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\CreateProjectSSL201311221711\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+C:\Users\pc\Desktop\CreateProjectSSL201311221711\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+I:\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+I:\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+I:\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+I:\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+I:\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+I:\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+I:\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+I:\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+I:\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+I:\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\obj\Debug\ResolveAssemblyReference.cache
+I:\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+I:\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+C:\Users\pc\Desktop\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL201312012144\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL201312012144\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL201312012144\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+D:\个人业务\SSL\CreateProjectSSL201312012144\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+D:\个人业务\SSL\CreateProjectSSL201312012144\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+D:\个人业务\SSL\CreateProjectSSL201312012144\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+D:\个人业务\SSL\CreateProjectSSL201312012144\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+D:\个人业务\SSL\CreateProjectSSL201312012144\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+D:\个人业务\SSL\CreateProjectSSL201312012144\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+D:\个人业务\SSL\CreateProjectSSL201312012144\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\obj\Debug\ResolveAssemblyReference.cache
+D:\个人业务\SSL\CreateProjectSSL201312012144\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL201312012144\CreateProjectSSL[2013-11-29 1730]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+C:\Users\pc\Desktop\CreateProjectSSL20131202173801\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+C:\Users\pc\Desktop\CreateProjectSSL20131202173801\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+C:\Users\pc\Desktop\CreateProjectSSL20131202173801\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+C:\Users\pc\Desktop\CreateProjectSSL20131202173801\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+C:\Users\pc\Desktop\CreateProjectSSL20131202173801\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+C:\Users\pc\Desktop\CreateProjectSSL20131202173801\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+C:\Users\pc\Desktop\CreateProjectSSL20131202173801\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+C:\Users\pc\Desktop\CreateProjectSSL20131202173801\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+C:\Users\pc\Desktop\CreateProjectSSL20131202173801\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+C:\Users\pc\Desktop\CreateProjectSSL20131202173801\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\CreateProjectSSL20131202173801\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+C:\Users\pc\Desktop\CreateProjectSSL20131202173801\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-12-03]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-12-03]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-12-03]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-12-03]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-12-03]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-12-03]\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-12-03]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-12-03]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-12-03]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+D:\个人业务\SSL\CreateProjectSSL[2013-12-03]\CreateProjectSSL\ToolsDal\obj\Debug\ResolveAssemblyReference.cache
+D:\个人业务\SSL\CreateProjectSSL[2013-12-03]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL[2013-12-03]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+F:\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+F:\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+F:\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+F:\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+F:\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+F:\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+F:\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+F:\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+F:\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+F:\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+F:\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+F:\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+D:\个人业务\SSL\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+D:\个人业务\SSL\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+D:\个人业务\SSL\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+D:\个人业务\SSL\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+D:\个人业务\SSL\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+D:\个人业务\SSL\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+D:\个人业务\SSL\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\obj\Debug\ResolveAssemblyReference.cache
+D:\个人业务\SSL\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+C:\Users\pc\Desktop\CreateProjectSSL20131205173501\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+C:\Users\pc\Desktop\CreateProjectSSL20131205173501\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+C:\Users\pc\Desktop\CreateProjectSSL20131205173501\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+C:\Users\pc\Desktop\CreateProjectSSL20131205173501\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+C:\Users\pc\Desktop\CreateProjectSSL20131205173501\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+C:\Users\pc\Desktop\CreateProjectSSL20131205173501\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+C:\Users\pc\Desktop\CreateProjectSSL20131205173501\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+C:\Users\pc\Desktop\CreateProjectSSL20131205173501\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+C:\Users\pc\Desktop\CreateProjectSSL20131205173501\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+C:\Users\pc\Desktop\CreateProjectSSL20131205173501\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\CreateProjectSSL20131205173501\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+C:\Users\pc\Desktop\CreateProjectSSL20131205173501\CreateProjectSSL201312042250\CreateProjectSSL20131204174001\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL201312052200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL201312052200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+D:\个人业务\SSL\CreateProjectSSL201312052200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+D:\个人业务\SSL\CreateProjectSSL201312052200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+D:\个人业务\SSL\CreateProjectSSL201312052200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+D:\个人业务\SSL\CreateProjectSSL201312052200\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+D:\个人业务\SSL\CreateProjectSSL201312052200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+D:\个人业务\SSL\CreateProjectSSL201312052200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+D:\个人业务\SSL\CreateProjectSSL201312052200\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+D:\个人业务\SSL\CreateProjectSSL201312052200\CreateProjectSSL\ToolsDal\obj\Debug\ResolveAssemblyReference.cache
+D:\个人业务\SSL\CreateProjectSSL201312052200\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+D:\个人业务\SSL\CreateProjectSSL201312052200\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Tmp Project\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Tmp Project\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Tmp Project\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Tmp Project\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Tmp Project\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Tmp Project\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Tmp Project\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Tmp Project\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Tmp Project\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Tmp Project\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Tmp Project\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL[Change SSL]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+D:\个人业务\SSL\源码\CreateProjectSSL[Change SSL]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL[Change SSL]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+D:\个人业务\SSL\源码\CreateProjectSSL[Change SSL]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+D:\个人业务\SSL\源码\CreateProjectSSL[Change SSL]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+D:\个人业务\SSL\源码\CreateProjectSSL[Change SSL]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL[Change SSL]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL[Change SSL]\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL[Change SSL]\CreateProjectSSL\ToolsDal\obj\Debug\ResolveAssemblyReference.cache
+D:\个人业务\SSL\源码\CreateProjectSSL[Change SSL]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+D:\个人业务\SSL\源码\CreateProjectSSL[Change SSL]\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL20131218215601\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+D:\个人业务\SSL\源码\CreateProjectSSL20131218215601\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL20131218215601\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+D:\个人业务\SSL\源码\CreateProjectSSL20131218215601\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+D:\个人业务\SSL\源码\CreateProjectSSL20131218215601\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+D:\个人业务\SSL\源码\CreateProjectSSL20131218215601\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL20131218215601\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL20131218215601\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL20131218215601\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\obj\Debug\ResolveAssemblyReference.cache
+D:\个人业务\SSL\源码\CreateProjectSSL20131218215601\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+D:\个人业务\SSL\源码\CreateProjectSSL20131218215601\CreateProjectSSL20131218152401\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312230950\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312230950\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312230950\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312230950\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312230950\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312230950\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312230950\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312230950\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312230950\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312230950\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312230950\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+D:\othersoft\快盘\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+D:\othersoft\快盘\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+D:\othersoft\快盘\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+D:\othersoft\快盘\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+D:\othersoft\快盘\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+D:\othersoft\快盘\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+D:\othersoft\快盘\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+D:\othersoft\快盘\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+D:\othersoft\快盘\项目\SLL\源码\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+D:\othersoft\快盘\项目\SLL\源码\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+D:\othersoft\快盘\项目\SLL\源码\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+E:\快盘1\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+E:\快盘1\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+E:\快盘1\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+E:\快盘1\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+E:\快盘1\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+E:\快盘1\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+E:\快盘1\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+E:\快盘1\项目\SLL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+E:\快盘1\项目\SLL\源码\CreateProjectSSL\ToolsDal\obj\Debug\ResolveAssemblyReference.cache
+E:\快盘1\项目\SLL\源码\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+E:\快盘1\项目\SLL\源码\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+D:\个人业务\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+D:\个人业务\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+D:\个人业务\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+D:\个人业务\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+D:\个人业务\SSL\源码\CreateProjectSSL\ToolsDal\obj\Debug\ResolveAssemblyReference.cache
+D:\个人业务\SSL\源码\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+D:\个人业务\SSL\源码\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Infromation\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Infromation\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Infromation\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Infromation\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Infromation\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Infromation\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Infromation\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Infromation\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Infromation\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Infromation\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Infromation\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL201312301534\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Company-Other Mo\CreateProjectSSL20131231172501\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Company-Other Mo\CreateProjectSSL20131231172501\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Company-Other Mo\CreateProjectSSL20131231172501\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Company-Other Mo\CreateProjectSSL20131231172501\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Company-Other Mo\CreateProjectSSL20131231172501\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Company-Other Mo\CreateProjectSSL20131231172501\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Company-Other Mo\CreateProjectSSL20131231172501\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Company-Other Mo\CreateProjectSSL20131231172501\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Company-Other Mo\CreateProjectSSL20131231172501\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Company-Other Mo\CreateProjectSSL20131231172501\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+E:\Peter DataProject\Personal Information\My Collation of data\Company Dep\Company-Other Mo\CreateProjectSSL20131231172501\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+F:\项目\外部项目\2013\SSL\源码\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+C:\Users\Peter\Desktop\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+C:\Users\Peter\Desktop\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+C:\Users\Peter\Desktop\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+C:\Users\Peter\Desktop\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+C:\Users\Peter\Desktop\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+C:\Users\Peter\Desktop\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+C:\Users\Peter\Desktop\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+C:\Users\Peter\Desktop\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+C:\Users\Peter\Desktop\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+C:\Users\Peter\Desktop\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+C:\Users\wxg\Desktop\CreateProjectSSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+C:\Users\wxg\Desktop\档案管理系统BAK\SSL\CreateProjectSSL201401091620\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+D:\DAMISLAST\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.dll
+D:\DAMISLAST\CreateProjectSSL\ToolsDal\bin\Debug\ToolsDal.pdb
+D:\DAMISLAST\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.dll
+D:\DAMISLAST\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.dll
+D:\DAMISLAST\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.dll
+D:\DAMISLAST\CreateProjectSSL\ToolsDal\bin\Debug\NPOI.dll
+D:\DAMISLAST\CreateProjectSSL\ToolsDal\bin\Debug\ToolsHelper.pdb
+D:\DAMISLAST\CreateProjectSSL\ToolsDal\bin\Debug\ToolsModel.pdb
+D:\DAMISLAST\CreateProjectSSL\ToolsDal\bin\Debug\ToolsCommon.pdb
+D:\DAMISLAST\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.csprojResolveAssemblyReference.cache
+D:\DAMISLAST\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.dll
+D:\DAMISLAST\CreateProjectSSL\ToolsDal\obj\Debug\ToolsDal.pdb

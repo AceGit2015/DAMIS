@@ -1,0 +1,32 @@
+<script language="javascript" type="text/javascript" src="WdatePicker.js"></script>
+<script language="javascript" type="text/javascript" src="/js/Common.js"></script>
+
+：<input name="F00161" type="text" id="F00161" onFocus="WdatePicker({lang:'zh-cn',startDate:'%y-%M-%d',dateFmt:'yyyy-MM-dd',alwaysUseStartDate:true})" class="Wdate" />
+
+<br/>
+<br/>
+<input type="text" class="Wdate" id="d412" onFocus="WdatePicker({lang:'zh-cn',startDate:'%y-%M-%d',dateFmt:'yyyy-MM-dd',alwaysUseStartDate:true})" />
+
+<br/>
+<br/>
+
+<input id="d313" class="Wdate" type="text" onFocus="WdatePicker({lang:'zh-cn'})"/>
+选择第一个日期的时候,第二个日期选择框自动弹出
+日期从:  至  
+注意:下面第一个控件代码的写法
+<input id="d5221" class="Wdate" type="text" onFocus="var d5222=$dp.$('d5222');WdatePicker({onpicked:function(){d5222.focus();},maxDate:'#F{$dp.$D(\'d5222\')}'})"/>
+至
+<input id="d5222" class="Wdate" type="text" onFocus="WdatePicker({minDate:'#F{$dp.$D(\'d5221\')}'})"/>
+<input class="Wdate" type="text" onfocus="WdatePicker({doubleCalendar:true,dateFmt:'yyyy-MM-dd'})"/>
+
+注意:双月日历一般只用于包含年月日三个元素的场景,另外设置该属性时,autoPickDate自动设置为true
+
+<input id="Text1" class="Wdate" type="text" onFocus="var d5222=$dp.$('Text2');WdatePicker({doubleCalendar:true,onpicked:function(){Text2.focus();},maxDate:'#F{$dp.$D(\'Text2\')}'})"/>
+至
+<input id="Text2" class="Wdate" type="text" onFocus="WdatePicker({doubleCalendar:true,minDate:'#F{$dp.$D(\'Text1\')}'})"/>
+
+
+<input id="Text3" class="Wdate" type="text" onFocus="WdatePickerClick('checkin', 'Text3', 'Text4')"/>
+至
+<input id="Text4" class="Wdate" type="text" onFocus="WdatePickerClick('checkout', 'Text3', 'Text4')"/>
+
